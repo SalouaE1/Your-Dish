@@ -4,6 +4,7 @@
  
  # Structures:
   1- Accueil (#home):
+  
 Présente le nouveau menu du restaurant avec une image attrayante et une description.
 Offre un bouton pour passer une commande.
 
@@ -11,6 +12,7 @@ Offre un bouton pour passer une commande.
 
 
    2-Menu (#menu):
+   
 Affiche une sélection de plats populaires du menu.
 Chaque plat est accompagné d'une image, d'un nom, d'un prix et d'un lien pour l'achat.
 
@@ -26,16 +28,23 @@ Comprend une image et une description des atouts du restaurant.
 ![apropos](https://github.com/SalouaE1/Your-Dish/assets/139327537/33a1bbed-fbf6-4346-9275-79152a6b145c)
 
 4-Commentaires (comment_section):
+
 Montre les commentaires des clients.
 Affiche le nom et le commentaire de chaque client.
+
 ![comments](https://github.com/SalouaE1/Your-Dish/assets/139327537/a7b5da7c-da90-4a63-ab77-b7859588e80e)
 
+
 5-Réservation (#reservation):
+
 Permet aux utilisateurs de remplir un formulaire de réservation.
 Le formulaire demande le nom, l'e-mail, le numéro et la date de réservation.
+
 ![reservation](https://github.com/SalouaE1/Your-Dish/assets/139327537/ebf11592-b358-41cb-b7c5-855995be661d)
 
+
 6-Footer (footer):
+
 Fournit des informations de contact et des détails sur les heures d'ouverture du restaurant.
 ![footer](https://github.com/SalouaE1/Your-Dish/assets/139327537/eb9ea9b2-8a92-4e82-8af2-633976293b80)
 
