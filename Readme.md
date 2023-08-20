@@ -3,20 +3,26 @@
  Le site web est conçu en utilisant HTML, CSS et JavaScript.
  
  # Structures:
-
-1- Accueil (#home):
+  1- Accueil (#home):
 Présente le nouveau menu du restaurant avec une image attrayante et une description.
 Offre un bouton pour passer une commande.
+
 ![accueil](https://github.com/SalouaE1/Your-Dish/assets/139327537/5658665f-956e-4873-8020-8bc7f3633d33)
 
-2-Menu (#menu):
+
+   2-Menu (#menu):
 Affiche une sélection de plats populaires du menu.
 Chaque plat est accompagné d'une image, d'un nom, d'un prix et d'un lien pour l'achat.
+
+
 ![menu](https://github.com/SalouaE1/Your-Dish/assets/139327537/0d144ac1-ce7e-4361-ba68-8a39e3f65784)
 
-3-À Propos (#about_us):
+
+ 3-À Propos (#about_us):
+ 
 Explique pourquoi choisir le restaurant.
 Comprend une image et une description des atouts du restaurant.
+
 ![apropos](https://github.com/SalouaE1/Your-Dish/assets/139327537/33a1bbed-fbf6-4346-9275-79152a6b145c)
 
 4-Commentaires (comment_section):
